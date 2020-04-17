@@ -1,0 +1,69 @@
+body{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    align-items: center;
+}
+table{
+    align-items: center;
+    font-size: 30px;
+    margin-left: 23vw;
+    box-shadow: 5px 10px;
+}
+th{
+    font-size: 40px;
+    padding: 10px;
+    background-color: rgb(87, 71, 71);
+    padding-right: 40px;
+
+}
+td{
+    padding: 10px;
+    padding-right: 40px; 
+
+}
+td a{
+    text-align: center;
+    padding-left: 10px;
+    margin-right: -25px;
+    background-color: white;
+}
+#delete-button{
+    background-color: white;
+}
+#delete-button i{
+    color: red;
+}
+#input-correction td{
+    background-color: rgb(87, 71, 71);
+}
+#input-correction input{
+    background-color: rgb(87, 71, 71) ;
+}
+tr{
+    padding: 10px;
+    padding-right: 40px;
+    background-color: rgb(47, 47, 190);
+}
+tr:hover{
+    background-color: rgb(87, 71, 71);
+}
+#heading{
+    font-size: 55px;
+    color: darkblue;
+}
+input{
+    width: 250px;
+    height: 45px;
+    background-color: rgb(47, 47, 190);
+    border: none;
+    font-size: 25px;
+    border-bottom: 1px solid white;
+    color: white;
+}
+button{
+    height: 45px;
+    width: 120px;
+    background-color: white;
+    border: none;
+}
